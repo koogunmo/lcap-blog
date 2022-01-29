@@ -1,8 +1,4 @@
-title: Lower Queen Anne Post
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
-baseurl: /
-canonicalurl: true
+baseline: " A news blog in the Seattle Lower Queen Anne neighborhood."
 theme:
   - hyde
   - netlify
@@ -20,3 +16,7 @@ hyde:
     sticky: true
   theme: ""
   reverse: false
+title: Lower Queen Anne Post
+description: A news blog in the Seattle Lower Queen Anne neighborhood.
+baseurl: /
+canonicalurl: true
