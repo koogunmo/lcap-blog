@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://cecilapp.github.io/the-butler/blog/</id>
-  <title>The Butler - Blog</title>
+  <title>Lower Queen Anne Post - Blog</title>
   <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
   <link href="https://cecilapp.github.io/the-butler/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/the-butler/blog/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2020-03-08T17:00:00-07:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>Lower Queen Anne Post</name>
     <uri>https://cecilapp.github.io/the-butler/</uri>
   </author>
   <entry xml:lang="en">
@@ -23,8 +23,8 @@
 </blockquote>]]>
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/princess-mononoke/" rel="alternate" type="text/html" />
-    <published>2020-03-09T01:00:00+01:00</published>
-    <updated>2020-03-09T01:00:00+01:00</updated>
+    <published>2020-03-08T17:00:00-07:00</published>
+    <updated>2020-03-08T17:00:00-07:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/daft-punk/</id>
@@ -39,8 +39,8 @@
 </blockquote>]]>
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/daft-punk/" rel="alternate" type="text/html" />
-    <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2020-02-05T15:43:00+01:00</updated>
+    <published>2020-02-05T06:43:00-08:00</published>
+    <updated>2020-02-05T06:43:00-08:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/doom/</id>
@@ -55,7 +55,7 @@
 </blockquote>]]>
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/doom/" rel="alternate" type="text/html" />
-    <published>2019-12-14T01:00:00+01:00</published>
-    <updated>2019-12-14T01:00:00+01:00</updated>
+    <published>2019-12-13T16:00:00-08:00</published>
+    <updated>2019-12-13T16:00:00-08:00</updated>
   </entry>
 </feed>
