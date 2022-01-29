@@ -14,7 +14,7 @@ keywords:
 author: Arnaud Ligny
 date:
   format: j F Y
-  timezone: PT
+  timezone: America/Vancouver
 hyde:
   sidebar:
     sticky: true
