@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://cecilapp.github.io/the-butler/blog/</id>
   <title>Lower Queen Anne Post - Blog</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <subtitle><![CDATA[A news blog in the Seattle Lower Queen Anne neighborhood.]]></subtitle>
   <link href="https://cecilapp.github.io/the-butler/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/the-butler/blog/" rel="alternate" type="text/html" />
   <updated>2020-03-08T17:00:00-07:00</updated>
